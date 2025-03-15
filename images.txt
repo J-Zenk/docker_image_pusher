@@ -1,5 +1,3 @@
-nginx
-#支持私库
-docker pull lmsysorg/sglang:v0.4.4.post1-cu125
+lmsysorg/sglang:v0.4.4.post1-cu125
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

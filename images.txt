@@ -2,5 +2,6 @@ lmsysorg/sglang:latest
 vllm/vllm-openai:latest
 byaidu/pdf2zh:latest
 ghcr.io/open-webui/open-webui:main
+tgrogers/accel-sim_regress:Ubuntu-24.04-cuda-12.8
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

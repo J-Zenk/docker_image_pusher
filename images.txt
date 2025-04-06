@@ -2,8 +2,7 @@ lmsysorg/sglang:latest
 vllm/vllm-openai:latest
 byaidu/pdf2zh:latest
 ghcr.io/open-webui/open-webui:main
-nvidia/cuda:12.4.1-devel-ubuntu20.04
-nvidia/cuda:12.4.1-devel-ubuntu22.04
 approachingai/ktransformers:latest-AVX512
+pandoc/extra:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

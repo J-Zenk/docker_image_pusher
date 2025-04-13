@@ -1,4 +1,5 @@
 lmsysorg/sglang:latest
+lmsysorg/sglang:blackwell
 vllm/vllm-openai:latest
 byaidu/pdf2zh:latest
 ghcr.io/open-webui/open-webui:main

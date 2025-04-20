@@ -1,5 +1,5 @@
 ghcr.io/ggml-org/llama.cpp:full-cuda
-docker pull joyai/vllm:rtx5090-cu128
+joyai/vllm:rtx5090-cu128
 lmsysorg/sglang:latest
 lmsysorg/sglang:blackwell
 vllm/vllm-openai:latest

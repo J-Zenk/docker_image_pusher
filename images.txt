@@ -1,4 +1,4 @@
-ghcr.io/ggml-org/llama.cpp:server-cuda
+ghcr.io/ggml-org/llama.cpp:full-cuda
 lmsysorg/sglang:latest
 lmsysorg/sglang:blackwell
 vllm/vllm-openai:latest

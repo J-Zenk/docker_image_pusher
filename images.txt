@@ -1,3 +1,5 @@
+docker pull nvidia/cuda:12.8.1-cudnn-devel-ubuntu22.04
+docker pull nvidia/cuda:12.8.1-cudnn-devel-ubuntu20.04
 ghcr.io/ggml-org/llama.cpp:full-cuda
 xprobe/xinference:latest
 lmsysorg/sglang:latest
@@ -5,9 +7,11 @@ lmsysorg/sglang:blackwell
 vllm/vllm-openai:latest
 byaidu/pdf2zh:latest
 ghcr.io/open-webui/open-webui:main
+ghcr.io/open-webui/mcpo:main
 approachingai/ktransformers:latest-AVX512
 pandoc/extra:latest
 nvcr.io/nvidia/pytorch:25.03-py3
+infiniflow/ragflow:v0.18.0-slim
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 

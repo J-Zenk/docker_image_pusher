@@ -1,3 +1,4 @@
+pytorch/pytorch:2.7.0-cuda12.8-cudnn9-devel
 ghcr.io/open-webui/open-webui:main
 ghcr.io/ggml-org/llama.cpp:full-cuda
 xprobe/xinference:latest
@@ -9,4 +10,3 @@ pandoc/extra:latest
 #infiniflow/ragflow:v0.18.0-slim
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-

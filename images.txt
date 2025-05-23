@@ -1,3 +1,5 @@
+mtphotos/mt-photos-ai:cuda-latest
+xayane/mt-photos-insightface-unofficial:latest
 rustdesk/rustdesk-server
 ghcr.io/open-webui/open-webui:main
 ghcr.io/ggml-org/llama.cpp:full-cuda

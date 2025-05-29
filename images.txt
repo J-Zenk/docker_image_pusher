@@ -1,4 +1,4 @@
-rustdesk/rustdesk-server
+ghcr.io/ggerganov/llama.cpp:full-cuda
 ghcr.io/open-webui/open-webui:main
 ghcr.io/ggml-org/llama.cpp:full-cuda
 xprobe/xinference:latest

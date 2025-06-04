@@ -1,4 +1,4 @@
-ghcr.io/pdfmathtranslate/pdfmathtranslate-next
+awwaawwa/pdfmathtranslate-next:2.0.0
 ghcr.io/ggerganov/llama.cpp:server-cuda
 ghcr.io/open-webui/open-webui:main
 ghcr.io/ggml-org/llama.cpp:full-cuda

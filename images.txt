@@ -1,3 +1,4 @@
+lmsysorg/sglang:blackwell
 awwaawwa/pdfmathtranslate-next
 ghcr.io/open-webui/open-webui:main
 ghcr.io/ggml-org/llama.cpp:full-cuda

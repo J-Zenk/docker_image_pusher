@@ -6,7 +6,8 @@ xprobe/xinference:latest
 lmsysorg/sglang:latest
 vllm/vllm-openai:latest
 #ghcr.io/open-webui/mcpo:main
-#approachingai/ktransformers:latest-AVX512
+nvidia/cuda:12.6.1-devel-ubuntu20.04
+nvidia/cuda:12.6.1-devel-ubuntu22.04
 #pandoc/extra:latest
 infiniflow/ragflow:v0.19.1-slim
 #支持指定架构

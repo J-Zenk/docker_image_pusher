@@ -1,9 +1,9 @@
-lmsysorg/sglang:blackwell
+#lmsysorg/sglang:blackwell
+lmsysorg/sglang:latest
 awwaawwa/pdfmathtranslate-next
 ghcr.io/open-webui/open-webui:main
 ghcr.io/ggml-org/llama.cpp:full-cuda
 xprobe/xinference:latest
-lmsysorg/sglang:latest
 vllm/vllm-openai:latest
 #ghcr.io/open-webui/mcpo:main
 nvidia/cuda:11.8.0-devel-ubuntu20.04

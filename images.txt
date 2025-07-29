@@ -1,14 +1,14 @@
-#lmsysorg/sglang:blackwell
+tutelgroup/deepseek-671b:a100x8-chat-20250730
 lmsysorg/sglang:latest
 awwaawwa/pdfmathtranslate-next
 ghcr.io/open-webui/open-webui:main
 ghcr.io/ggml-org/llama.cpp:full-cuda
-xprobe/xinference:latest
+#xprobe/xinference:latest
 vllm/vllm-openai:latest
 #ghcr.io/open-webui/mcpo:main
-nvidia/cuda:11.8.0-devel-ubuntu20.04
-nvidia/cuda:11.8.0-devel-ubuntu22.04
+#nvidia/cuda:11.8.0-devel-ubuntu20.04
+#nvidia/cuda:11.8.0-devel-ubuntu22.04
 #pandoc/extra:latest
-infiniflow/ragflow:v0.19.1-slim
+#infiniflow/ragflow:v0.19.1-slim
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

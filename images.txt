@@ -1,4 +1,4 @@
-tutelgroup/deepseek-671b:a100x8-chat-20250801
+#tutelgroup/deepseek-671b:a100x8-chat-20250801
 lmsysorg/sglang:latest
 awwaawwa/pdfmathtranslate-next
 ghcr.io/open-webui/open-webui:main

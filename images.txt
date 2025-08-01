@@ -9,6 +9,6 @@ vllm/vllm-openai:latest
 #nvidia/cuda:11.8.0-devel-ubuntu20.04
 #nvidia/cuda:11.8.0-devel-ubuntu22.04
 #pandoc/extra:latest
-#infiniflow/ragflow:v0.19.1-slim
+infiniflow/ragflow:v0.20.0-slim
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

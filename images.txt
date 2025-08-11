@@ -5,7 +5,7 @@ ghcr.io/open-webui/open-webui:main
 ghcr.io/ggml-org/llama.cpp:full-cuda
 #xprobe/xinference:latest
 vllm/vllm-openai:latest
-#ghcr.io/open-webui/mcpo:main
+ghcr.io/open-webui/mcpo:main
 #nvidia/cuda:11.8.0-devel-ubuntu20.04
 #nvidia/cuda:11.8.0-devel-ubuntu22.04
 #pandoc/extra:latest

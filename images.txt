@@ -1,4 +1,4 @@
-infiniflow/ragflow:v0.20.3
+#infiniflow/ragflow:v0.20.3
 #tutelgroup/deepseek-671b:a100x8-chat-20250801
 lmsysorg/sglang:latest
 lmsysorg/sglang:dev

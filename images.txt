@@ -1,7 +1,8 @@
 #infiniflow/ragflow:v0.20.3
 #tutelgroup/deepseek-671b:a100x8-chat-20250801
+ubuntu:22.04
 lmsysorg/sglang:latest
-lmsysorg/sglang:dev
+#lmsysorg/sglang:dev
 awwaawwa/pdfmathtranslate-next
 ghcr.io/open-webui/open-webui:main
 ghcr.io/ggml-org/llama.cpp:full-cuda

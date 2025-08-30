@@ -1,5 +1,5 @@
 #infiniflow/ragflow:v0.20.3
-a100x8-chat-20250827
+tutelgroup/deepseek-671b:a100x8-chat-20250827
 docker.io/infiniflow/ragflow_deps:latest
 ubuntu:22.04
 lmsysorg/sglang:latest

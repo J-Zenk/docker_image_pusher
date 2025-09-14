@@ -9,7 +9,7 @@ awwaawwa/pdfmathtranslate-next
 ghcr.io/open-webui/open-webui:main
 ghcr.io/ggml-org/llama.cpp:full-cuda
 #xprobe/xinference:latest
-vllm/vllm-openai:latest
+vllm/vllm-openai:v0.10.2
 ghcr.io/open-webui/mcpo:main
 #openmmlab/lmdeploy:latest
 #nvidia/cuda:11.8.0-devel-ubuntu20.04

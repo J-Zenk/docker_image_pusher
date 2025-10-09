@@ -3,12 +3,11 @@
 #tutelgroup/deepseek-671b:a100x8-chat-20250827
 vllm/vllm-openai:latest
 docker.io/infiniflow/ragflow_deps:latest
-#ubuntu:22.04
 lmsysorg/sglang:latest
 #lmsysorg/sglang:dev
 awwaawwa/pdfmathtranslate-next
 ghcr.io/open-webui/open-webui:main
-ghcr.io/ggml-org/llama.cpp:full-cuda
+#ghcr.io/ggml-org/llama.cpp:full-cuda
 #xprobe/xinference:latest
 ghcr.io/open-webui/mcpo:main
 #openmmlab/lmdeploy:latest

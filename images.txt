@@ -1,11 +1,10 @@
-#infiniflow/ragflow:v0.20.3
-#nvidia/cuda:12.8.1-cudnn-devel-ubuntu22.04
-#tutelgroup/deepseek-671b:a100x8-chat-20250827
-qwenllm/qwenvl:qwen3vl-cu128
+#tutelgroup/deepseek-671b:a100x8-chat-20250827   
+#qwenllm/qwenvl:qwen3vl-cu128
+lmsysorg/sglang:dev
+tutelgroup/deepseek-671b:a100x8-chat-20251010
 vllm/vllm-openai:latest
 docker.io/infiniflow/ragflow_deps:latest
 lmsysorg/sglang:latest
-#lmsysorg/sglang:dev
 awwaawwa/pdfmathtranslate-next
 ghcr.io/open-webui/open-webui:main
 #ghcr.io/ggml-org/llama.cpp:full-cuda

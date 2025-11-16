@@ -6,9 +6,9 @@ lmsysorg/sglang:latest
 #tutelgroup/deepseek-671b:a100x8-chat-20251010
 vllm/vllm-openai:nightly
 docker.io/infiniflow/ragflow_deps:latest
-#lmsysorg/sglang:latest 
+#lmsysorg/sglang:latest
 awwaawwa/pdfmathtranslate-next
-ghcr.io/open-webui/open-webui:main  
+ghcr.io/open-webui/open-webui:main
 #ghcr.io/ggml-org/llama.cpp:full-cuda
 #xprobe/xinference:latest
 #ghcr.io/open-webui/mcpo:main  

@@ -8,6 +8,7 @@ vllm/vllm-openai:nightly
 docker.io/infiniflow/ragflow_deps:latest
 #lmsysorg/sglang:latest
 awwaawwa/pdfmathtranslate-next
+awwaawwa/pdfmathtranslate-next:dev
 ghcr.io/open-webui/open-webui:main
 #ghcr.io/ggml-org/llama.cpp:full-cuda
 #xprobe/xinference:latest

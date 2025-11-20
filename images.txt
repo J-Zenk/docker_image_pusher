@@ -1,5 +1,6 @@
 #tutelgroup/deepseek-671b:a100x8-chat-20250827   
 #qwenllm/qwenvl:qwen3vl-cu128
+vllm/vllm-openai:latest
 lmsysorg/sglang:dev
 lmsysorg/sglang:latest
 #nvcr.io/nvidia/tensorrt-llm/release:1.2.0rc1

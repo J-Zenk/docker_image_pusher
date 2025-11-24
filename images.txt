@@ -1,5 +1,6 @@
 #tutelgroup/deepseek-671b:a100x8-chat-20250827   
 #qwenllm/qwenvl:qwen3vl-cu128
+pytorch/pytorch:2.5.0-cuda12.4-cudnn9-devel
 vllm/vllm-openai:latest
 #lmsysorg/sglang:dev
 lmsysorg/sglang:latest

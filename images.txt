@@ -1,7 +1,7 @@
 #tutelgroup/deepseek-671b:a100x8-chat-20250827   
 #qwenllm/qwenvl:qwen3vl-cu128
 #pytorch/pytorch:2.5.0-cuda12.4-cudnn9-devel
-gitlab/gitlab-ee:latest
+gitlab/gitlab-ce:latest
 docker.gitea.com/gitea:latest-rootless
 stirlingtools/stirling-pdf:latest-fat
 vllm/vllm-openai:latest

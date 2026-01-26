@@ -3,8 +3,7 @@
 #pytorch/pytorch:2.5.0-cuda12.4-cudnn9-devel
 gitlab/gitlab-ee:latest
 gitlab/gitlab-runner:latest
-gitlab/model-gateway:self-hosted-v18.8.0-e
-e
+gitlab/model-gateway:self-hosted-v18.8.0-ee
 docker.gitea.com/gitea:latest-rootless
 stirlingtools/stirling-pdf:latest-fat
 vllm/vllm-openai:latest

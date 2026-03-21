@@ -7,10 +7,10 @@
 #docker.gitea.com/gitea:latest-rootless
 #stirlingtools/stirling-pdf:latest-fat
 #mtphotos/mt-photos-ai:cuda-13.0
-tensorflow/tensorflow:latest-gpu-jupyter
+#tensorflow/tensorflow:latest-gpu-jupyter
 ghcr.io/open-webui/open-terminal
 lfnovo/open_notebook:v1-latest
-vllm/vllm-openai:cu130-nightly
+vllm/vllm-openai:latest-cu130
 vllm/vllm-openai:latest
 #lmsysorg/sglang:dev
 lmsysorg/sglang:latest

@@ -8,6 +8,7 @@
 #stirlingtools/stirling-pdf:latest-fat
 #mtphotos/mt-photos-ai:cuda-13.0
 #tensorflow/tensorflow:latest-gpu-jupyter
+lscr.io/linuxserver/zotero:latest
 ghcr.io/open-webui/open-terminal
 lfnovo/open_notebook:v1-latest
 vllm/vllm-openai:latest-cu130

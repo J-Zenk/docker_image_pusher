@@ -7,6 +7,8 @@
 #stirlingtools/stirling-pdf:latest-fat
 #pytorch/pytorch:2.9.1-cuda13.0-cudnn9-runtime
 #tensorflow/tensorflow:latest-gpu-jupyter
+nvidia/cuda:12.9.1-devel-ubuntu22.04
+nvidia/cuda:12.9.1-base-ubuntu22.04
 dockurr/windows
 lscr.io/linuxserver/zotero:latest
 ghcr.io/open-webui/open-terminal

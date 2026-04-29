@@ -9,6 +9,7 @@
 #tensorflow/tensorflow:latest-gpu-jupyter
 #nvidia/cuda:12.9.1-devel-ubuntu22.04
 #nvidia/cuda:12.9.1-base-ubuntu22.04
+nvidia/cuda:12.9.1-cudnn-devel-ubuntu24.04
 nvidia/cuda:12.9.1-devel-ubuntu24.04
 nvidia/cuda:12.9.1-base-ubuntu24.04
 dockurr/windows

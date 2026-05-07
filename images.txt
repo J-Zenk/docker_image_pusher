@@ -17,7 +17,7 @@ dockurr/windows
 lscr.io/linuxserver/zotero:latest
 ghcr.io/open-webui/open-terminal
 lfnovo/open_notebook:v1-latest
-vllm/vllm-openai:latest-cu130
+vllm/vllm-openai:latest
 vllm/vllm-openai:latest-cu129
 #lmsysorg/sglang:dev
 lmsysorg/sglang:latest

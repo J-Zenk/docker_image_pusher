@@ -12,8 +12,9 @@
 #nvidia/cuda:12.9.1-cudnn-devel-ubuntu24.04
 #nvidia/cuda:12.9.1-devel-ubuntu24.04
 #nvidia/cuda:12.9.1-base-ubuntu24.04
-nvidia/dcgm:4.5.2-1-ubi9
-nvidia/dcgm:4.5.2-1-ubuntu22.04
+ghcr.io/ggml-org/llama.cpp:server-cuda13
+#nvidia/dcgm:4.5.2-1-ubi9
+#nvidia/dcgm:4.5.2-1-ubuntu22.04
 lmsysorg/sglang:latest-cu129
 dockurr/windows
 lscr.io/linuxserver/zotero:latest
@@ -26,7 +27,7 @@ lmsysorg/sglang:latest
 #approachingai/sglang-kt:latest
 #nvcr.io/nvidia/tensorrt-llm/release:1.2.0rc1
 #tutelgroup/deepseek-671b:a100x8-chat-20251010
-vllm/vllm-openai:nightly
+#vllm/vllm-openai:nightly
 docker.io/infiniflow/ragflow_deps:latest
 #lmsysorg/sglang:latest
 awwaawwa/pdfmathtranslate-next
@@ -39,6 +40,5 @@ ghcr.io/open-webui/open-webui:main
 #nvidia/cuda:11.8.0-devel-ubuntu20.04
 #nvidia/cuda:11.8.0-devel-ubuntu22.04
 #pandoc/extra:latest
-#infiniflow/ragflow:v0.20.0-slim
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist

@@ -12,7 +12,7 @@
 #nvidia/cuda:12.9.1-cudnn-devel-ubuntu24.04
 #nvidia/cuda:12.9.1-devel-ubuntu24.04
 #nvidia/cuda:12.9.1-base-ubuntu24.04
-docker pull lmsysorg/sglang:latest-cu130
+lmsysorg/sglang:latest-cu130
 #nvidia/cuda:12.1.0-runtime-ubuntu22.04
 ghcr.io/ggml-org/llama.cpp:server-cuda13
 #nvidia/dcgm:4.5.2-1-ubi9

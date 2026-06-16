@@ -12,6 +12,8 @@ gitlab/gitlab-runner:latest
 #nvidia/cuda:12.9.1-cudnn-devel-ubuntu24.04
 #nvidia/cuda:12.9.1-devel-ubuntu24.04
 #nvidia/cuda:12.9.1-base-ubuntu24.04
+gitlab/gitlab-ee:18.11.5-ee.0
+gitlab/gitlab-ee:18.8.10-ee.0
 lmsysorg/sglang:latest-cu130
 #nvidia/cuda:12.1.0-runtime-ubuntu22.04
 ghcr.io/ggml-org/llama.cpp:server-cuda13

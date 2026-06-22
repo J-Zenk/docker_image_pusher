@@ -5,7 +5,7 @@ gitlab/gitlab-runner:latest
 #gitlab/model-gateway:self-hosted-v18.8.0-ee
 #docker.gitea.com/gitea:latest-rootless
 #stirlingtools/stirling-pdf:latest-fat
-vllm-router:nightly
+vllm/vllm-router:nightly
 gitlab/gitlab-ee:18.11.5-ee.0
 gitlab/gitlab-ee:18.8.10-ee.0
 lmsysorg/sglang:latest-cu130

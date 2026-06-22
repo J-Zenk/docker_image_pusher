@@ -5,13 +5,7 @@ gitlab/gitlab-runner:latest
 #gitlab/model-gateway:self-hosted-v18.8.0-ee
 #docker.gitea.com/gitea:latest-rootless
 #stirlingtools/stirling-pdf:latest-fat
-#pytorch/pytorch:2.9.1-cuda13.0-cudnn9-runtime
-#tensorflow/tensorflow:latest-gpu-jupyter
-#nvidia/cuda:12.9.1-devel-ubuntu22.04
-#nvidia/cuda:12.9.1-base-ubuntu22.04
-#nvidia/cuda:12.9.1-cudnn-devel-ubuntu24.04
-#nvidia/cuda:12.9.1-devel-ubuntu24.04
-#nvidia/cuda:12.9.1-base-ubuntu24.04
+vllm-router:nightly
 gitlab/gitlab-ee:18.11.5-ee.0
 gitlab/gitlab-ee:18.8.10-ee.0
 lmsysorg/sglang:latest-cu130

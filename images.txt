@@ -1,5 +1,6 @@
 #tutelgroup/deepseek-671b:a100x8-chat-20250827   
 #pytorch/pytorch:2.5.0-cuda12.4-cudnn9-devel
+nvcr.io/nvidia/cuda-dl-base:25.09-cuda13.0-devel-ubuntu24.04
 gitlab/gitlab-ee:latest
 gitlab/gitlab-runner:latest
 #gitlab/model-gateway:self-hosted-v18.8.0-ee

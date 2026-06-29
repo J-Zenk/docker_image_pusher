@@ -1,5 +1,6 @@
 #tutelgroup/deepseek-671b:a100x8-chat-20250827   
 #pytorch/pytorch:2.5.0-cuda12.4-cudnn9-devel
+calciumion/new-api:latest
 mtphotos/mt-photos-ai:cuda-13.0
 nvcr.io/nvidia/cuda-dl-base:25.09-cuda13.0-devel-ubuntu24.04
 gitlab/gitlab-ee:latest
@@ -23,7 +24,7 @@ lfnovo/open_notebook:v1-latest
 vllm/vllm-openai:latest
 vllm/vllm-openai:latest-cu129
 lmsysorg/sglang:dev
-lmsysorg/sglang:dev-cu129
+lmsysorg/sglang:dev-cu12
 #nvcr.io/nvidia/tensorrt-llm/release:1.2.0rc1
 #tutelgroup/deepseek-671b:a100x8-chat-20251010
 vllm/vllm-openai:nightly

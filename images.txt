@@ -10,7 +10,7 @@ gitlab/gitlab-runner:latest
 vllm/vllm-router:nightly
 gitlab/gitlab-ee:18.11.5-ee.0
 gitlab/gitlab-ee:18.8.10-ee.0
-lmsysorg/sglang:latest-cu130
+lmsysorg/sglang:latest
 #nvidia/cuda:12.1.0-runtime-ubuntu22.04
 ghcr.io/ggml-org/llama.cpp:server-cuda13
 #nvidia/dcgm:4.5.2-1-ubi9
@@ -22,14 +22,12 @@ ghcr.io/open-webui/open-terminal
 lfnovo/open_notebook:v1-latest
 vllm/vllm-openai:latest
 vllm/vllm-openai:latest-cu129
-#lmsysorg/sglang:dev
-lmsysorg/sglang:latest
-#approachingai/sglang-kt:latest
+lmsysorg/sglang:dev
+lmsysorg/sglang:dev-cu129
 #nvcr.io/nvidia/tensorrt-llm/release:1.2.0rc1
 #tutelgroup/deepseek-671b:a100x8-chat-20251010
 vllm/vllm-openai:nightly
 docker.io/infiniflow/ragflow_deps:latest
-#lmsysorg/sglang:latest
 awwaawwa/pdfmathtranslate-next
 awwaawwa/pdfmathtranslate-next:dev
 ghcr.io/open-webui/open-webui:main

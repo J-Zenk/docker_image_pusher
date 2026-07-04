@@ -1,5 +1,7 @@
 #tutelgroup/deepseek-671b:a100x8-chat-20250827   
 #pytorch/pytorch:2.5.0-cuda12.4-cudnn9-devel
+ubuntu:22.04
+ubuntu:24.04
 python:3.11-slim-bookworm
 node:22-alpine3.20
 calciumion/new-api:latest

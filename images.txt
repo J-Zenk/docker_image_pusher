@@ -6,6 +6,7 @@
 #nvidia/cuda:13.0.2-base-ubuntu22.04
 #python:3.11-slim-bookworm
 #node:22-alpine3.20
+pytorch/manylinux2_28-builder:cuda13.0
 infiniflow/ragflow-base:v2.1
 calciumion/new-api:latest
 mtphotos/mt-photos-ai:cuda-13.0

@@ -36,6 +36,7 @@ lmsysorg/sglang:dev-cu12
 #nvcr.io/nvidia/tensorrt-llm/release:1.2.0rc1
 #tutelgroup/deepseek-671b:a100x8-chat-20251010
 vllm/vllm-openai:nightly
+vllm/vllm-openai:cu129-nightly
 docker.io/infiniflow/ragflow_deps:latest
 awwaawwa/pdfmathtranslate-next
 awwaawwa/pdfmathtranslate-next:dev

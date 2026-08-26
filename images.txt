@@ -8,7 +8,7 @@
 #node:22-alpine3.20
 #pytorch/manylinux2_28-builder:cuda13.0
 #infiniflow/ragflow-base:v2.1
-vllm/vllm-openai:qwen38-flash-next-x86_64-cu129
+vllm/vllm-openai:glm53-flash
 calciumion/new-api:latest
 mtphotos/mt-photos-ai:cuda-13.0
 #nvcr.io/nvidia/cuda-dl-base:25.09-cuda13.0-devel-ubuntu24.04
